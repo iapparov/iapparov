@@ -12,7 +12,7 @@ My projects:
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [Brick_Game](https://github.com/iapparov/Birck_Game)| A cross-platform implementation of classic Snake and Tetris games with both console (ncurses) and desktop (Qt) interfaces | CPP, C, QT, Ncurses|
+| [Brick Game](https://github.com/iapparov/Birck_Game)| A cross-platform implementation of classic Snake and Tetris games with both console (ncurses) and desktop (Qt) interfaces | CPP, C, QT, Ncurses|
 
 <b>Golang Projects </b>
 
