@@ -1,6 +1,6 @@
 ## Emil Golang developer
 
-- 👋 Привет, Меня зовут Эмиль!
+- 👋 Hi, I'm Emil Iapparov!
 - 📫 How to reach me emil@iapparov.ru
 - Currently studying in [School 21](https://21-school.ru/?ysclid=lvqdaw7w8i261317894) - educational project for developers
 
