@@ -24,7 +24,7 @@ My projects:
 
 My skills:
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
   <a href="https://go.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
