@@ -8,19 +8,28 @@
 
 My projects:
 
-<b> C++ Projects </b>
-
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-| [Brick Game](https://github.com/iapparov/Birck_Game)| A cross-platform implementation of classic Snake and Tetris games with both console (ncurses) and desktop (Qt) interfaces | CPP, C, QT, Ncurses|
-
 <b>Golang Projects </b>
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [Rogue game](https://github.com/iapparov/Rogue_Game)| A console-based roguelike game in the spirit of the classic Rogue (1980), implemented in Go using the goncurses library. | Golang, Ncurses |
+| [Marketplace](https://github.com/iapparov/Marketplace)| REST-API for a Sample Marketplace with ads | Golang, SQLite, JWT, REST|
+| [Simple archiver](https://github.com/iapparov/Simple_archiver)| A service that lets users create download tasks from public file URLs, archives up to 3 valid files into a ZIP, and provides a download link | Golang, REST|
+| [Rogue game](https://github.com/iapparov/Rogue_Game)| A console-based roguelike game in the spirit of the classic Rogue (1980), implemented in Go using the goncurses library | Golang, Ncurses |
 | [TicTacToe game](https://github.com/iapparov/TicTacToe)| This project is about TicTacToe game | Golang, Postgres, JWT|
-| [Who Flights](https://github.com/iapparov/who_flights_telegram_bot_api)| A Telegram bot and backend service that connects travelers with people who need to send small items between cities. | Golang, Kafka, Redis, Postgres|
+
+<b> C++ Projects </b>
+
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Brick Game v2](https://github.com/iapparov/Birck_Game)| A cross-platform implementation of classic Snake and Tetris games with both console (ncurses) and desktop (Qt) interfaces | CPP, C, QT, Ncurses|
+| [3DViewer ](https://github.com/iapparov/3DViewer_v2.0)| 3DViewer v2.0 is a cross-platform desktop application for visualizing 3D models in .obj format, implemented in C++ with a Qt-based graphical user interface | CPP, QT|
+
+<b> C Projects </b>
+
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Brick Game v1.0](https://github.com/iapparov/BrickGame_v1.0)| Classic Tetris game with console interface (ncurses) | C, Ncurses|
+| [Matrix](https://github.com/iapparov/C_matrix)| A C library for matrix operations: creation, arithmetic operations, transposition, determinant calculation, inverse matrix, and other functions | C |
 
 My skills:
 
