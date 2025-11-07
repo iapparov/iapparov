@@ -12,10 +12,10 @@ My projects:
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [Marketplace](https://github.com/iapparov/Marketplace)| REST-API for a Sample Marketplace with ads | Golang, SQLite, JWT, REST, UberFX|
+| [DemoService](https://github.com/iapparov/Demo_service)| A microservice for viewing orders | Golang, PostgreSQL, Kafka, UberFX, HTML|
 | [DelayedNotifier](https://github.com/iapparov/DelayedNotifier)| REST-API for a Delayed notifier service | Golang, PostgreSQL, REST, UberFX, RabbitMQ, Redis, Wbf, Zlog, Viper|
 | [URLShortener](https://github.com/iapparov/URLShortener)| REST-API for a URL Shortener service | Golang, PostgreSQL, REST, UberFX, Redis, Wbf, Zlog, Viper|
-| [DemoService](https://github.com/iapparov/Demo_service)| A microservice for viewing orders | Golang, PostgreSQL, Kafka, UberFX, HTML|
+| [Marketplace](https://github.com/iapparov/Marketplace)| REST-API for a Sample Marketplace with ads | Golang, SQLite, JWT, REST, UberFX|
 | [Rogue game](https://github.com/iapparov/Rogue_Game)| A console-based roguelike game in the spirit of the classic Rogue (1980), implemented in Go using the goncurses library | Golang, Ncurses |
 
 <b> C++ Projects </b>
